@@ -2,7 +2,7 @@
 
 <img src="./Banner.png" />
 
-<img src="./gif.mp4" width="100%" />
+<img src="./sakura.gif" width="100%" />
 
 <br>
 
@@ -38,7 +38,7 @@ gosto de criar projetos que conectam criatividade, acessibilidade e tecnologia d
 
 <br>
 
-<img src="./divider.png" width="100%" />
+<img src="./glow divider.png" width="100%" />
 
 <br>
 
@@ -52,7 +52,7 @@ gosto de criar projetos que conectam criatividade, acessibilidade e tecnologia d
 
 <br>
 
-<img src="./divider.png" width="100%" />
+<img src="./glow divider.png" width="100%" />
 
 <br>
 
@@ -68,7 +68,7 @@ gosto de criar projetos que conectam criatividade, acessibilidade e tecnologia d
 
 <br>
 
-<img src="./divider.png" width="100%" />
+<img src="./glow divider.png" width="100%" />
 
 <br>
 
@@ -84,7 +84,7 @@ tecnologia assistiva criada para devolver autonomia, segurança e dignidade atra
 
 <br>
 
-<img src="./divider.png" width="100%" />
+<img src="./glow divider.png" width="100%" />
 
 <br>
 
