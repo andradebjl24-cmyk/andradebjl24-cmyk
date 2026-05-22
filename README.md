@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="./Banner.png" />
-<div align="center">
-
-<img src="./Banner.png" width="100%"/>
-
-<br><br>
 
 # LETÍCIA ANDRADE
 
