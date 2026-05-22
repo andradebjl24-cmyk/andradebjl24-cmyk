@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/yourbanner.png" width="100%" alt="Banner Letícia Andrade"/>
+<img src="Banner.png" width="100%" alt="Banner Letícia Andrade"/>
 
 <br><br>
 
