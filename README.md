@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Creative+Developer.;UI%2FUX+Designer.;Building+human-centered+technology." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Desenvolvedora+Criativa.;UI%2FUX+Designer.;Construindo+tecnologia+centrada+em+pessoas." />
 
 <br><br>
 
@@ -24,35 +24,24 @@
 
 ---
 
-# ✦ about_me
+# ✦ sobre_mim
 
-```js
-const leticia = {
-  role: "Creative Developer",
+<div align="center">
 
-  focus: [
-    "Web Development",
-    "UI/UX Design",
-    "Data Analysis"
-  ],
+```txt
+Letícia Andrade
+desenvolvedora criativa • ui/ux designer
 
-  learning: [
-    "Java",
-    "MySQL",
-    "APIs",
-    "Backend"
-  ],
-
-  project: "Ever Rise",
-
-  philosophy:
-    "technology with emotion, beauty and purpose"
-}
+criando experiências digitais
+que unem tecnologia,
+design e impacto humano.
 ```
+
+</div>
 
 ---
 
-# ✦ tech_stack
+# ✦ tecnologias
 
 <div align="center">
 
@@ -62,13 +51,13 @@ const leticia = {
 
 ---
 
-# ✦ featured_project
+# ✦ projeto_em_destaque
 
 <div align="center">
 
 <table>
 <tr>
-<td width="600px">
+<td width="700px">
 
 ### Ever Rise
 
@@ -98,7 +87,7 @@ acessibilidade • autonomia • segurança • inovação
 
 ---
 
-# ✦ contribution_graph
+# ✦ gráfico_de_contribuição
 
 <div align="center">
 
@@ -108,7 +97,7 @@ acessibilidade • autonomia • segurança • inovação
 
 ---
 
-# ✦ contribution_snake
+# ✦ cobra_de_contribuições
 
 <div align="center">
 
@@ -121,7 +110,7 @@ acessibilidade • autonomia • segurança • inovação
 <div align="center">
 
 ```txt
-creating technology between dream, design and reality
+criando tecnologia entre sonhos, design e realidade
 ```
 
 </div>
