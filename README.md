@@ -2,84 +2,57 @@
 
 <img src="Banner.png" width="100%" />
 
-# ✦ LETÍCIA ANDRADE ✦
-
-### tecnologia • design • criatividade
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&pause=1000&color=F7B7FF&center=true&vCenter=true&width=700&lines=Construindo+tecnologia+com+propósito.;Criando+experiências+digitais.;UI%2FUX+•+Web+•+Dados" />
-
-</div>
-
----
-
-## ✦ sobre mim
-
-```js
-const leticia = {
-  foco: [
-    "Desenvolvimento Web",
-    "UI/UX",
-    "Análise de Dados"
-  ],
-
-  estudando: [
-    "Java",
-    "MySQL",
-    "APIs"
-  ],
-
-  projeto: "Ever Rise"
-}
-```
-
----
-
-## ✦ tecnologias
-
 <div align="center">
+  
+# 🎀 Bem-vindo(a) ao meu cantinho! 🎀
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,figma,vscode&theme=dark" />
+<img src="https://githubusercontent.com" alt="Sparkling Heart" width="100" height="100" />
 
-</div>
-
----
-
-## ✦ github stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=andradebjl24-cmyk&show_icons=true&hide_border=true&bg_color=0D0618&title_color=F7B7FF&text_color=F4E7FF&icon_color=C084FC"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebjl24-cmyk&layout=compact&hide_border=true&bg_color=0D0618&title_color=F7B7FF&text_color=F4E7FF"/>
-
-</div>
+[![Typing SVG](https://herokuapp.com)](https://git.io)
 
 ---
 
-## ✦ contribuição
+### ✨ Sobre mim ✨
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+<p align="center">
+  Olá! Eu sou <b>[Seu Nome]</b>. Adoro transformar café em código bonito e funcional. <br> 
+  Atualmente focada em aprender <b>[Sua Stack]</b> e deixar a web mais colorida.
+</p>
 
 ---
 
-## ✦ conecte-se
+### 🎨 Minhas Tecnologias 🎨
 
-<div align="center">
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![CSS3](https://shields.io)
+![TailwindCSS](https://shields.io)
 
-<a href="https://github.com/andradebjl24-cmyk">
-  <img src="https://img.shields.io/badge/GitHub-1A102B?style=for-the-badge&logo=github&logoColor=F7B7FF">
+---
+
+### 🌙 Status do GitHub 🌙
+
+<br/>
+
+<img height="180em" src="https://vercel.app[SEU-USUARIO]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=30,ff79c6,bd93f9&title_color=ffffff&text_color=f8f8f2&icon_color=ff79c6" />
+<img height="180em" src="https://vercel.app[SEU-USUARIO]&layout=compact&langs_count=7&theme=dracula&bg_color=30,bd93f9,ff79c6&title_color=ffffff&text_color=f8f8f2" />
+
+---
+
+### 💌 Vamos conversar? 💌
+
+<p align="center">
+<a href="mailto:[SEU-EMAIL]">
+<img src="https://shields.io" />
 </a>
-
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-1A102B?style=for-the-badge&logo=linkedin&logoColor=F7B7FF">
+<a href="[LINK-LINKEDIN]">
+<img src="https://shields.io" />
 </a>
-
-<a href="mailto:andradebjl24@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1A102B?style=for-the-badge&logo=gmail&logoColor=F7B7FF">
+<a href="[LINK-INSTAGRAM]">
+<img src="https://shields.io" />
 </a>
+</p>
+
+<img src="https://vercel.app" width="100%"/>
 
 </div>
