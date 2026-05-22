@@ -2,7 +2,7 @@
 
 <img src="./Banner.png" />
 
-<img src="./sakura.gif" width="100%" />
+<img src="./gif.mp4" width="100%" />
 
 <br>
 
@@ -18,15 +18,15 @@
 
 <br>
 
-<img src="./divider.png" width="100%" />
+<img src="./glow divider.png" width="100%" />
 
 <br><br>
 
-<img src="./building.png" width="100%" />
+<img src="./card.png" width="100%" />
 
 <br><br>
 
-<img src="./divider.png" width="100%" />
+<img src="./glow divider.png" width="100%" />
 
 <br>
 
