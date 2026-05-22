@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Banner.png" width="100%" alt="Banner Letícia Andrade"/>
+<img src="https://i.imgur.com/yourbanner.png" width="100%" alt="Banner Letícia Andrade"/>
 
 <br><br>
 
@@ -63,8 +63,6 @@ const leticia = {
 
 A **Ever Rise** é um projeto de tecnologia assistiva criado para ajudar pessoas com mobilidade reduzida através de uma experiência mais segura, humana e acessível.
 
-O projeto mistura:
-
 ```txt
 acessibilidade • autonomia • segurança • design • inovação
 ```
@@ -85,7 +83,7 @@ acessibilidade • autonomia • segurança • design • inovação
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=andradebjl24-cmyk&show_icons=true&hide_border=true&bg_color=0D0618&title_color=F7B7FF&text_color=F4E7FF&icon_color=FF7ACD"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=andradebjl24-cmyk&show_icons=true&hide_border=true&bg_color=0D0618&title_color=F7B7FF&text_color=F4E7FF&icon_color=C084FC"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebjl24-cmyk&layout=compact&hide_border=true&bg_color=0D0618&title_color=F7B7FF&text_color=F4E7FF"/>
 
@@ -97,11 +95,7 @@ acessibilidade • autonomia • segurança • design • inovação
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake.svg">
-  <img alt="animação da cobra de contribuições" src="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -159,3 +153,57 @@ código com intenção
 ```
 
 </div>
+
+<!-- SNAKE ANIMATION -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
+
+<!-- SNAKE WORKFLOW -->
+
+```yml
+name: Generate Purple Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Gerar cobra roxa
+        uses: Platane/snk@v3
+        with:
+          github_user_name: andradebjl24-cmyk
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#A855F7&color_dots=#F3E8FF,#E9D5FF,#D8B4FE,#C084FC,#9333EA
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E879F9&color_dots=#160A24,#2A143D,#4C1D95,#7E22CE,#C084FC
+
+      - name: Publicar animação
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
