@@ -1,14 +1,19 @@
 <div align="center">
 
 <img src="./Banner.png" />
+<div align="center">
 
-<br>
+<img src="./Banner.png" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3500&pause=1000&color=F4C2E8&center=true&vCenter=true&width=850&lines=tecnologia+com+propósito.;experiências+digitais+humanas.;criatividade%2C+dados+e+design." />
+<br><br>
 
 # LETÍCIA ANDRADE
 
-### creative developer • ui/ux • data & technology
+### Creative Developer • UI/UX • Data & Technology
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=3500&pause=1000&color=C86BBE&center=true&vCenter=true&width=700&lines=Tecnologia+com+propósito.;Design+com+identidade.;Experiências+digitais+humanas." />
 
 </div>
 
@@ -16,19 +21,19 @@
 
 ## ✦ sobre mim
 
-Sou apaixonada por tecnologia, design e experiências digitais que unem estética, emoção e propósito.
+Sou estudante de tecnologia, apaixonada por interfaces, dados e projetos que unem estética, funcionalidade e impacto real.
 
-Atualmente estudo desenvolvimento, banco de dados e criação de interfaces, construindo projetos que conectam criatividade, acessibilidade e impacto real.
+Gosto de criar experiências digitais com identidade visual forte, pensando em acessibilidade, propósito e conexão humana.
 
 ---
 
-## ✦ atualmente construindo
+## ✦ atualmente
 
 ```txt
-✦ Ever Rise
-✦ Interfaces acessíveis
-✦ Experiências digitais cinematográficas
-✦ Estudos em Java, MySQL e Dados
+✦ estudando Java, MySQL e Banco de Dados
+✦ criando interfaces com foco em UI/UX
+✦ desenvolvendo o projeto Ever Rise
+✦ explorando tecnologia, design e acessibilidade
 ```
 
 ---
@@ -43,41 +48,27 @@ Atualmente estudo desenvolvimento, banco de dados e criação de interfaces, con
 
 ---
 
-## ✦ status do github
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=andradebjl24-cmyk&show_icons=true&theme=transparent&hide_border=true&title_color=F4C2E8&text_color=EAD7F7&icon_color=C86BBE&bg_color=00000000"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebjl24-cmyk&layout=compact&theme=transparent&hide_border=true&title_color=F4C2E8&text_color=EAD7F7&bg_color=00000000"/>
-
-</div>
-
----
-
-## ✦ contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
----
-
-## ✦ projeto em destaque
-
-<div align="center">
+## ✦ projeto destaque
 
 ### Ever Rise
 
-Tecnologia assistiva criada para devolver autonomia, segurança e dignidade para pessoas com mobilidade reduzida.
+Projeto de tecnologia assistiva voltado para pessoas com mobilidade reduzida, com foco em autonomia, segurança e acessibilidade.
 
-`acessibilidade` `autonomia` `segurança` `tecnologia humana`
+```txt
+acessibilidade • autonomia • tecnologia humana • impacto social
+```
+
+---
+
+## ✦ github
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=andradebjl24-cmyk&show_icons=true&theme=transparent&hide_border=true&title_color=C86BBE&text_color=EAD7F7&icon_color=F4C2E8"/>
+
+<br><br>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebjl24-cmyk&layout=compact&theme=transparent&hide_border=true&title_color=C86BBE&text_color=EAD7F7"/>
 
 </div>
 
@@ -85,6 +76,6 @@ Tecnologia assistiva criada para devolver autonomia, segurança e dignidade para
 
 <div align="center">
 
-### “technology should feel human.”
+### “Technology should feel human.”
 
 </div>
