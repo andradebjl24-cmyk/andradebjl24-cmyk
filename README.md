@@ -2,57 +2,126 @@
 
 <img src="Banner.png" width="100%" />
 
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Creative+Developer.;UI%2FUX+Designer.;Building+human-centered+technology." />
+
+<br><br>
+
+<a href="mailto:andradebjl24@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=C084FC">
+</a>
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C084FC">
+</a>
+
+<a href="https://github.com/andradebjl24-cmyk">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C084FC">
+</a>
+
+</div>
+
+---
+
+# ✦ about_me
+
+```js
+const leticia = {
+  role: "Creative Developer",
+
+  focus: [
+    "Web Development",
+    "UI/UX Design",
+    "Data Analysis"
+  ],
+
+  learning: [
+    "Java",
+    "MySQL",
+    "APIs",
+    "Backend"
+  ],
+
+  project: "Ever Rise",
+
+  philosophy:
+    "technology with emotion, beauty and purpose"
+}
+```
+
+---
+
+# ✦ tech_stack
+
 <div align="center">
-  
-# 🎀 Bem-vindo(a) ao meu cantinho! 🎀
 
-<img src="https://githubusercontent.com" alt="Sparkling Heart" width="100" height="100" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,figma,vscode&theme=dark" />
 
-[![Typing SVG](https://herokuapp.com)](https://git.io)
+</div>
 
 ---
 
-### ✨ Sobre mim ✨
+# ✦ featured_project
 
-<p align="center">
-  Olá! Eu sou <b>[Seu Nome]</b>. Adoro transformar café em código bonito e funcional. <br> 
-  Atualmente focada em aprender <b>[Sua Stack]</b> e deixar a web mais colorida.
-</p>
+<div align="center">
 
----
+<table>
+<tr>
+<td width="600px">
 
-### 🎨 Minhas Tecnologias 🎨
+### Ever Rise
 
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-![CSS3](https://shields.io)
-![TailwindCSS](https://shields.io)
+Tecnologia assistiva criada para apoiar pessoas com mobilidade reduzida através de uma experiência mais segura, humana e acessível.
 
----
+```txt
+acessibilidade • autonomia • segurança • inovação
+```
 
-### 🌙 Status do GitHub 🌙
+</td>
+</tr>
+</table>
 
-<br/>
-
-<img height="180em" src="https://vercel.app[SEU-USUARIO]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=30,ff79c6,bd93f9&title_color=ffffff&text_color=f8f8f2&icon_color=ff79c6" />
-<img height="180em" src="https://vercel.app[SEU-USUARIO]&layout=compact&langs_count=7&theme=dracula&bg_color=30,bd93f9,ff79c6&title_color=ffffff&text_color=f8f8f2" />
+</div>
 
 ---
 
-### 💌 Vamos conversar? 💌
+# ✦ github_stats
 
-<p align="center">
-<a href="mailto:[SEU-EMAIL]">
-<img src="https://shields.io" />
-</a>
-<a href="[LINK-LINKEDIN]">
-<img src="https://shields.io" />
-</a>
-<a href="[LINK-INSTAGRAM]">
-<img src="https://shields.io" />
-</a>
-</p>
+<div align="center">
 
-<img src="https://vercel.app" width="100%"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=andradebjl24-cmyk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebjl24-cmyk&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF"/>
+
+</div>
+
+---
+
+# ✦ contribution_graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andradebjl24-cmyk&bg_color=0D1117&color=C084FC&line=A855F7&point=E9D5FF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# ✦ contribution_snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+creating technology between dream, design and reality
+```
 
 </div>
