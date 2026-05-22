@@ -1,39 +1,51 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1026,50:0A66C2,100:7B61FF&text=LETÍCIA%20ANDRADE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20human-centered%20technology&descAlignY=58"/>
+<img src="./assets/banner.png" width="100%" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3500&pause=1200&color=F4C2E8&center=true&vCenter=true&width=700&lines=Building+human-centered+technology.;Creating+experiences%2C+not+just+interfaces.;Technology+with+beauty+and+purpose." />
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=2500&color=7B61FF&center=true&vCenter=true&width=800&lines=Building+accessible+technology...;Designing+cinematic+digital+experiences...;Creating+the+Ever+Rise+project...;Learning+Java+%26+Data+Technology..." />
+# LETÍCIA ANDRADE
+
+creative developer • ui/ux • data & technology
 
 </div>
 
+<br><br>
+
 ---
 
-# about.exe
+## ✦ about
 
-```yaml
-name: Letícia Andrade
-focus: Human-centered technology
-learning: Java, MySQL, UI/UX
-main_project: Ever Rise
-location: São Paulo, Brazil
+sou apaixonada por tecnologia, design, interfaces e experiências digitais que misturam estética, emoção e propósito.
+
+gosto de criar projetos que conectam criatividade, acessibilidade e tecnologia de forma humana e memorável.
+
+<br>
+
+---
+
+## ✦ currently building
+
+```txt
+✦ Ever Rise
+✦ accessible interfaces
+✦ cinematic digital experiences
+✦ java & data studies
 ```
 
----
-
-# currently_building
-
-🟣 Ever Rise  
-🔵 Interfaces acessíveis  
-🟣 Experiências cinematográficas  
-🔵 Tecnologia com propósito  
+<br>
 
 ---
 
-# tech_stack
+## ✦ tech stack
 
 <div align="center">
 
@@ -41,32 +53,26 @@ location: São Paulo, Brazil
 
 </div>
 
+<br>
+
 ---
 
-# github_status
+## ✦ github status
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=andradebjl24-cmyk&show_icons=true&theme=transparent&hide_border=true&title_color=7B61FF&text_color=c9d1d9&icon_color=0A66C2"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=andradebjl24-cmyk&show_icons=true&theme=transparent&hide_border=true&title_color=F4C2E8&text_color=EAD7F7&icon_color=C86BBE"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebjl24-cmyk&layout=compact&theme=transparent&hide_border=true&title_color=7B61FF&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebjl24-cmyk&layout=compact&theme=transparent&hide_border=true&title_color=F4C2E8&text_color=EAD7F7"/>
 
 </div>
 
----
-
-# contribution_snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<br>
 
 ---
 
 <div align="center">
 
-### “Technology should give people autonomy back.”
+### “technology should feel human.”
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7B61FF,50:0A66C2,100:0B1026"/>
