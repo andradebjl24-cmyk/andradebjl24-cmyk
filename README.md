@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="./Banner.png" />
-<div align="center">
-
-<img src="./Banner.png" />
 
 <br>
 
