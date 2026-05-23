@@ -24,14 +24,15 @@
 
 ---
 
-# ✦ sobre_mim
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=LETÍCIA%20ANDRADE&fontColor=C084FC&fontSize=34&animation=fadeIn&fontAlignY=38&desc=desenvolvedora%20criativa%20•%20ui/ux%20designer&descAlignY=60&descSize=18"/>
+
+</div>
 
 <div align="center">
 
 ```txt
-Letícia Andrade
-desenvolvedora criativa • ui/ux designer
-
 criando experiências digitais
 que unem tecnologia,
 design e impacto humano.
@@ -46,42 +47,6 @@ design e impacto humano.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,figma,vscode&theme=dark" />
-
-</div>
-
----
-
-# ✦ projeto_em_destaque
-
-<div align="center">
-
-<table>
-<tr>
-<td width="700px">
-
-### Ever Rise
-
-Tecnologia assistiva criada para apoiar pessoas com mobilidade reduzida através de uma experiência mais segura, humana e acessível.
-
-```txt
-acessibilidade • autonomia • segurança • inovação
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# ✦ github_stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=andradebjl24-cmyk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebjl24-cmyk&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF"/>
 
 </div>
 
