@@ -2,15 +2,14 @@
 
 <img src="./banner.jpg" width="100%" alt="Banner de Letícia Andrade com lírios em tons de bordô" />
 
-<br><br>
+<br>
 
 <a href="https://github.com/andradebjl24-cmyk"><img src="https://img.shields.io/badge/GitHub-58172F?style=for-the-badge&logo=github&logoColor=F5DDE6" alt="GitHub"></a>
-&nbsp;
 <a href="https://www.linkedin.com/in/leticiaandradeads/"><img src="https://img.shields.io/badge/LinkedIn-58172F?style=for-the-badge&logo=linkedin&logoColor=F5DDE6" alt="LinkedIn"></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=25&duration=2800&pause=1000&color=D8A0B5&center=true&vCenter=true&width=750&lines=Desenvolvimento+de+Software;Front-end+%7C+UI%2FUX;Produtos+Digitais+%26+Criatividade" alt="Título animado em tons de bordô" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=25&duration=2800&pause=1000&color=D8A0B5&center=true&vCenter=true&width=750&lines=Desenvolvimento+de+Software;Front-end+%7C+UI%2FUX;Produtos+Digitais+%26+Criatividade" alt="Desenvolvimento de software, Front-end, UI/UX e produtos digitais" />
 
 <p><i>Transformando ideias em experiências digitais.</i></p>
 
@@ -20,9 +19,9 @@
 
 ## Sobre mim
 
-Sou **Letícia Andrade**, desenvolvedora de software de São Paulo, formada em **Análise e Desenvolvimento de Sistemas pela UniBTA** e pela formação **Web Java — Programação e Desenvolvimento de Sistemas**, de 440 horas, do Instituto PROA em parceria com o Senac.
+Olá! Sou **Letícia Andrade**, desenvolvedora de software de São Paulo. Sou formada em **Análise e Desenvolvimento de Sistemas pela UniBTA** e concluí a formação **Web Java — Programação e Desenvolvimento de Sistemas**, de 440 horas, pelo Instituto PROA em parceria com o Senac.
 
-Tenho interesse em **Front-end, UI/UX e produtos digitais**. Gosto de combinar programação e design para criar experiências intuitivas, acessíveis e visualmente cuidadas. Aprendo colocando a mão na massa e desenvolvendo projetos.
+Meu foco está em **desenvolvimento Front-end, UI/UX e produtos digitais**. Gosto de unir código e design para criar experiências intuitivas, acessíveis e bem construídas. Aprendo na prática, desenvolvendo projetos e explorando novas tecnologias.
 
 ## Tecnologias & ferramentas
 
@@ -35,70 +34,52 @@ Tenho interesse em **Front-end, UI/UX e produtos digitais**. Gosto de combinar p
 ## Projetos em destaque
 
 <table>
-<tr>
-<td width="50%" bgcolor="#3A1023" valign="top">
-
-<h3>01 · EverRise</h3>
-
-<p><sub>Tecnologia assistiva · Acessibilidade</sub></p>
-
-Projeto de tecnologia assistiva para apoiar a transferência de pessoas com mobilidade reduzida. Contribuí com o front-end, o design e a apresentação da solução.
-
-<a href="https://github.com/Ever-Rise">Explorar projeto ↗</a>
-
-</td>
-<td width="50%" bgcolor="#3A1023" valign="top">
-
-<h3>02 · Lentes do Tempo</h3>
-
-<p><sub>Cultura brasileira · Experiência imersiva</sub></p>
-
-Experiência digital que valoriza o patrimônio cultural brasileiro por meio de recursos visuais e imersivos.
-
-<a href="https://github.com/EuAndersonDev/LentesDoTempo">Repositório ↗</a> · <a href="https://lentesdotempo.vercel.app/">Site ↗</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" bgcolor="#3A1023" valign="top">
-
-<h3>03 · Refúgio Literário</h3>
-
-<p><sub>C# · ASP.NET Core MVC · SQL Server</sub></p>
-
-Sistema de biblioteca com catálogo de livros, usuários, favoritos, comentários e gerenciamento de empréstimos.
-
-<a href="https://github.com/andradebjl24-cmyk/Refugio-Literario">Explorar projeto ↗</a>
-
-</td>
-<td width="50%" bgcolor="#3A1023" valign="top">
-
-<h3>04 · Consulta CEP</h3>
-
-<p><sub>JavaScript · API ViaCEP</sub></p>
-
-Aplicação web para consultar endereços brasileiros a partir do CEP, consumindo dados de uma API.
-
-<a href="https://github.com/andradebjl24-cmyk/Consulta-CEP">Repositório ↗</a> · <a href="https://consulta-cep-puce.vercel.app/">Site ↗</a>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>EverRise</h3>
+      <p><sub>TECNOLOGIA ASSISTIVA · ACESSIBILIDADE</sub></p>
+      Solução de tecnologia assistiva pensada para apoiar a transferência de pessoas com mobilidade reduzida. Atuei no front-end, no design e na apresentação do projeto.
+      <br><br>
+      <a href="https://github.com/Ever-Rise">Ver repositório ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Lentes do Tempo</h3>
+      <p><sub>CULTURA BRASILEIRA · EXPERIÊNCIA IMERSIVA</sub></p>
+      Experiência digital que aproxima o público do patrimônio cultural brasileiro com uma proposta visual e imersiva.
+      <br><br>
+      <a href="https://github.com/EuAndersonDev/LentesDoTempo">Repositório ↗</a> · <a href="https://lentesdotempo.vercel.app/">Projeto no ar ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Refúgio Literário</h3>
+      <p><sub>C# · ASP.NET CORE MVC · SQL SERVER</sub></p>
+      Sistema web de biblioteca com catálogo de livros, autenticação de usuários, favoritos, comentários e gerenciamento de empréstimos.
+      <br><br>
+      <a href="https://github.com/andradebjl24-cmyk/Refugio-Literario">Ver repositório ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Consulta CEP</h3>
+      <p><sub>JAVASCRIPT · API VIACEP</sub></p>
+      Aplicação web que consulta endereços brasileiros por CEP, integrando uma API para recuperar os dados.
+      <br><br>
+      <a href="https://github.com/andradebjl24-cmyk/Consulta-CEP">Repositório ↗</a> · <a href="https://consulta-cep-puce.vercel.app/">Projeto no ar ↗</a>
+    </td>
+  </tr>
 </table>
 
-## Um pouco da minha jornada
+## Em constante evolução
+
+Tenho interesse em desenvolver soluções que equilibrem **funcionalidade, acessibilidade e experiência do usuário**. A cada projeto, busco aprender algo novo e evoluir como desenvolvedora.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FOCO-Desenvolvimento%20Web-58172F?style=for-the-badge&labelColor=240A15" alt="Foco em desenvolvimento web" />
-<img src="https://img.shields.io/badge/INTERESSE-UI%2FUX-6F3048?style=for-the-badge&labelColor=240A15" alt="Interesse em UI e UX" />
-<img src="https://img.shields.io/badge/MOTIVAÇÃO-Aprender%20sempre-8D4963?style=for-the-badge&labelColor=240A15" alt="Motivação para aprender sempre" />
+<img src="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação das contribuições do GitHub" />
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cobrinha animada das contribuições do GitHub" />
-
-<p><i>Um projeto de cada vez, sempre evoluindo.</i></p>
+<br>
 
 <a href="https://www.linkedin.com/in/leticiaandradeads/"><img src="https://img.shields.io/badge/Vamos%20nos%20conectar-58172F?style=for-the-badge&logo=linkedin&logoColor=F5DDE6" alt="Vamos nos conectar pelo LinkedIn"></a>
+
+<p><sub>Um projeto de cada vez, sempre evoluindo.</sub></p>
 
 </div>
