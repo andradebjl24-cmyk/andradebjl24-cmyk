@@ -1,76 +1,90 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=240D18&height=190&section=header&text=LET%C3%8DCIA%20ANDRADE&fontColor=F3DCE5&fontSize=38&fontAlignY=43&desc=DESENVOLVIMENTO%20%7C%20UI%2FUX%20%7C%20PRODUTOS%20DIGITAIS&descAlignY=68&descSize=13" width="100%" alt="Letícia Andrade — Desenvolvimento, UI/UX e produtos digitais" />
+<img src="./banner.jpg" width="100%" alt="Banner de Letícia Andrade com lírios"/>
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/FULL%20STACK-4A172B?style=for-the-badge&labelColor=240D18&color=4A172B" />
-<img src="https://img.shields.io/badge/UI%20%2F%20UX-4A172B?style=for-the-badge&labelColor=240D18&color=4A172B" />
-<img src="https://img.shields.io/badge/CREATIVE-4A172B?style=for-the-badge&labelColor=240D18&color=4A172B" />
-<img src="https://img.shields.io/badge/EVOLUTION-4A172B?style=for-the-badge&labelColor=240D18&color=4A172B" />
-<img src="https://img.shields.io/badge/DIGITAL-4A172B?style=for-the-badge&labelColor=240D18&color=4A172B" />
+[![GitHub](https://img.shields.io/badge/GitHub-800020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andradebjl24-cmyk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-70263D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leticiaandradeads)
 
-<br><br>
-
-<a href="mailto:andradebjl24@gmail.com"><img src="https://img.shields.io/badge/Email-240D18?style=for-the-badge&logo=gmail&logoColor=E7B8C9" alt="Email" /></a>
-<a href="https://linkedin.com/in/leticiaandradeads"><img src="https://img.shields.io/badge/LinkedIn-240D18?style=for-the-badge&logo=linkedin&logoColor=E7B8C9" alt="LinkedIn" /></a>
-<a href="https://github.com/andradebjl24-cmyk"><img src="https://img.shields.io/badge/GitHub-240D18?style=for-the-badge&logo=github&logoColor=E7B8C9" alt="GitHub" /></a>
+*❀ ──────── ✦ ──────── ❀*
 
 </div>
 
----
+## ❀ Sobre mim
 
-## sobre mim
+Olá! Sou formada em **Análise e Desenvolvimento de Sistemas pela UniBTA** e concluí a formação **Web Java**, pelo Instituto PROA em parceria com o Senac, com 440 horas de aprendizado e desenvolvimento de projetos.
 
-Sou formada em **Análise e Desenvolvimento de Sistemas pela UniBTA** e concluí a formação **Web Java**, pelo Instituto PROA em parceria com o Senac, com 440 horas de aprendizado e desenvolvimento de projetos.
+Tenho interesse em desenvolvimento de software, **Front-end, UI/UX e criação de produtos digitais**. Gosto de explorar novas tecnologias e unir programação e criatividade na construção de experiências digitais.
 
-Tenho interesse em desenvolvimento de software, UI/UX e criação de produtos digitais. Gosto de explorar novas tecnologias e unir programação e criatividade na construção de experiências digitais.
+- 🎓 Análise e Desenvolvimento de Sistemas
+- 💻 Desenvolvimento web e aplicações
+- 🎨 Design de interfaces, prototipação e experiência do usuário
+- 🌱 Sempre aprendendo e desenvolvendo novos projetos
 
-## formação
-
-- **Análise e Desenvolvimento de Sistemas** — UniBTA · Concluído em 2025
-- **Web Java** — Instituto PROA + Senac · 440 horas · 2026
-
-## tecnologias
+## ✦ Tecnologias e ferramentas
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,java,spring,cs,dotnet,mysql,git,github,figma,vscode&theme=dark" alt="Tecnologias e ferramentas" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,java,spring,cs,dotnet,mysql,git,github,figma,vscode&theme=dark" alt="Tecnologias e ferramentas"/>
+
 </div>
 
-## projetos em destaque
+## ❀ Projetos em destaque
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>EverRise</h3>
-      <p>Projeto de tecnologia assistiva voltado à transferência e mobilidade de pessoas. Atuação em frontend, design e apresentação da solução.</p>
-      <a href="https://github.com/Ever-Rise">Ver repositório</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Lentes do Tempo</h3>
-      <p>Experiência digital imersiva que explora o patrimônio cultural brasileiro com recursos visuais em 3D.</p>
-      <a href="https://github.com/EuAndersonDev/LentesDoTempo">Repositório</a> · <a href="https://lentesdotempo.vercel.app/">Acessar site</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Refúgio Literário</h3>
-      <p>Sistema de biblioteca desenvolvido com ASP.NET Core MVC, Entity Framework Core e SQL Server, com catálogo e gerenciamento de empréstimos.</p>
-      <a href="https://github.com/andradebjl24-cmyk/Refugio-Literario">Ver repositório</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Consulta CEP</h3>
-      <p>Aplicação para consultar endereços por CEP, utilizando HTML, CSS, JavaScript e integração com a API ViaCEP.</p>
-      <a href="https://github.com/andradebjl24-cmyk/Consulta-CEP">Repositório</a> · <a href="https://consulta-cep-puce.vercel.app/">Acessar site</a>
-    </td>
-  </tr>
-</table>
+
+<a href="https://github.com/Ever-Rise">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ever-Rise&repo=Ever-Rise&theme=dark&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5&icon_color=C47A91&border_color=653044" alt="EverRise"/>
+</a>
+<a href="https://github.com/EuAndersonDev/LentesDoTempo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuAndersonDev&repo=LentesDoTempo&theme=dark&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5&icon_color=C47A91&border_color=653044" alt="Lentes do Tempo"/>
+</a>
+
+<a href="https://github.com/andradebjl24-cmyk/Refugio-Literario">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andradebjl24-cmyk&repo=Refugio-Literario&theme=dark&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5&icon_color=C47A91&border_color=653044" alt="Refúgio Literário"/>
+</a>
+<a href="https://github.com/andradebjl24-cmyk/Consulta-CEP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andradebjl24-cmyk&repo=Consulta-CEP&theme=dark&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5&icon_color=C47A91&border_color=653044" alt="Consulta CEP"/>
+</a>
+
 </div>
 
----
+### ✧ Um pouco sobre cada projeto
+
+**[EverRise](https://github.com/Ever-Rise)**  
+Projeto de tecnologia assistiva voltado à mobilidade e à transferência de pessoas com mobilidade reduzida. Contribuí com o front-end, o design e a apresentação da solução.
+
+**[Lentes do Tempo](https://github.com/EuAndersonDev/LentesDoTempo)**  
+Experiência imersiva com recursos 3D voltada à valorização do patrimônio cultural brasileiro. [Acessar o site](https://lentesdotempo.vercel.app/).
+
+**[Refúgio Literário](https://github.com/andradebjl24-cmyk/Refugio-Literario)**  
+Sistema de biblioteca desenvolvido com ASP.NET Core MVC, Entity Framework Core e SQL Server, com catálogo de livros e funcionalidades de empréstimo.
+
+**[Consulta CEP](https://github.com/andradebjl24-cmyk/Consulta-CEP)**  
+Aplicação web para consultar endereços por CEP, utilizando JavaScript e a API ViaCEP. [Acessar o site](https://consulta-cep-puce.vercel.app/).
+
+## ✦ Estatísticas do GitHub
 
 <div align="center">
-  <sub>Em constante aprendizado, criando e evoluindo um projeto de cada vez.</sub>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=andradebjl24-cmyk&show_icons=true&hide_border=true&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5&icon_color=C47A91&rank_icon=github" alt="Estatísticas do GitHub"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebjl24-cmyk&layout=compact&hide_border=true&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5" alt="Linguagens mais utilizadas"/>
+
+</div>
+
+## ❀ Minha jornada em código
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação da cobrinha percorrendo as contribuições do GitHub"/>
+
+*Cada contribuição é mais um passo na minha evolução.*
+
+<br/>
+
+✦ Obrigada por visitar meu perfil ✦
+
 </div>
