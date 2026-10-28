@@ -1,90 +1,118 @@
-
 <div align="center">
 
-<img src="./banner.jpg" width="100%" alt="Banner de Letícia Andrade com lírios"/>
+<img src="./banner.jpg" width="100%" alt="Letícia Andrade — burgundy lilies banner" />
 
-<br/>
+<br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-800020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andradebjl24-cmyk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-70263D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leticiaandradeads)
+<a href="https://github.com/andradebjl24-cmyk">
+  <img src="https://img.shields.io/badge/GitHub-24151D?style=flat-square&logo=github&logoColor=F1DCE3" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/leticiaandradeads">
+  <img src="https://img.shields.io/badge/LinkedIn-24151D?style=flat-square&logo=linkedin&logoColor=F1DCE3" alt="LinkedIn" />
+</a>
 
-*❀ ──────── ✦ ──────── ❀*
+<br /><br />
+
+**SOFTWARE DEVELOPMENT · FRONT-END · UI/UX**
+
+*Building thoughtful digital experiences through code and creativity.*
+
+✦ ───────────────────────────── ✦
 
 </div>
 
-## ❀ Sobre mim
+## About
 
-Olá! Sou formada em **Análise e Desenvolvimento de Sistemas pela UniBTA** e concluí a formação **Web Java**, pelo Instituto PROA em parceria com o Senac, com 440 horas de aprendizado e desenvolvimento de projetos.
+Hi, I'm **Letícia Andrade**, a software developer from São Paulo, Brazil.
 
-Tenho interesse em desenvolvimento de software, **Front-end, UI/UX e criação de produtos digitais**. Gosto de explorar novas tecnologias e unir programação e criatividade na construção de experiências digitais.
+I hold a degree in **Systems Analysis and Development** from UniBTA and completed **Web Java — Programming and Systems Development**, a 440-hour program by Instituto PROA in partnership with Senac.
 
-- 🎓 Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvimento web e aplicações
-- 🎨 Design de interfaces, prototipação e experiência do usuário
-- 🌱 Sempre aprendendo e desenvolvendo novos projetos
-
-## ✦ Tecnologias e ferramentas
+I'm interested in front-end development, interface design, and digital products. I enjoy turning ideas into clear, accessible, and engaging experiences while continuing to grow as a developer.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,java,spring,cs,dotnet,mysql,git,github,figma,vscode&theme=dark" alt="Tecnologias e ferramentas"/>
+| **FULL STACK** | **UI / UX** | **CREATIVE** | **EVOLUTION** | **DIGITAL** |
+|:---:|:---:|:---:|:---:|:---:|
+| Web applications | Interface design | Ideas into experiences | Learning by building | Human-centered products |
 
 </div>
 
-## ❀ Projetos em destaque
+## Tech stack
 
 <div align="center">
 
-<a href="https://github.com/Ever-Rise">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ever-Rise&repo=Ever-Rise&theme=dark&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5&icon_color=C47A91&border_color=653044" alt="EverRise"/>
-</a>
-<a href="https://github.com/EuAndersonDev/LentesDoTempo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EuAndersonDev&repo=LentesDoTempo&theme=dark&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5&icon_color=C47A91&border_color=653044" alt="Lentes do Tempo"/>
-</a>
-
-<a href="https://github.com/andradebjl24-cmyk/Refugio-Literario">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andradebjl24-cmyk&repo=Refugio-Literario&theme=dark&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5&icon_color=C47A91&border_color=653044" alt="Refúgio Literário"/>
-</a>
-<a href="https://github.com/andradebjl24-cmyk/Consulta-CEP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andradebjl24-cmyk&repo=Consulta-CEP&theme=dark&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5&icon_color=C47A91&border_color=653044" alt="Consulta CEP"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,java,spring,cs,dotnet,mysql,git,github,figma,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, Vue, Java, Spring, C#, .NET, MySQL, Git, GitHub, Figma and VS Code" />
 
 </div>
 
-### ✧ Um pouco sobre cada projeto
+## Selected projects
 
-**[EverRise](https://github.com/Ever-Rise)**  
-Projeto de tecnologia assistiva voltado à mobilidade e à transferência de pessoas com mobilidade reduzida. Contribuí com o front-end, o design e a apresentação da solução.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Lentes do Tempo](https://github.com/EuAndersonDev/LentesDoTempo)**  
-Experiência imersiva com recursos 3D voltada à valorização do patrimônio cultural brasileiro. [Acessar o site](https://lentesdotempo.vercel.app/).
+### [EverRise](https://github.com/Ever-Rise)
 
-**[Refúgio Literário](https://github.com/andradebjl24-cmyk/Refugio-Literario)**  
-Sistema de biblioteca desenvolvido com ASP.NET Core MVC, Entity Framework Core e SQL Server, com catálogo de livros e funcionalidades de empréstimo.
+**Assistive technology · Human mobility**
 
-**[Consulta CEP](https://github.com/andradebjl24-cmyk/Consulta-CEP)**  
-Aplicação web para consultar endereços por CEP, utilizando JavaScript e a API ViaCEP. [Acessar o site](https://consulta-cep-puce.vercel.app/).
+A technology solution designed to support the transfer of people with reduced mobility. I contributed to front-end development, visual design, and the project pitch.
 
-## ✦ Estatísticas do GitHub
+[Explore the project →](https://github.com/Ever-Rise)
+
+</td>
+<td width="50%" valign="top">
+
+### [Lentes do Tempo](https://github.com/EuAndersonDev/LentesDoTempo)
+
+**Immersive experience · 3D · Culture**
+
+A digital experience exploring Brazilian cultural heritage through immersive and 3D resources.
+
+[View repository →](https://github.com/EuAndersonDev/LentesDoTempo) · [Live website →](https://lentesdotempo.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Refúgio Literário](https://github.com/andradebjl24-cmyk/Refugio-Literario)
+
+**ASP.NET Core MVC · Entity Framework Core · SQL Server**
+
+A library management system featuring a book catalog, user accounts, favorites, comments, and a book-loan workflow.
+
+[Explore the project →](https://github.com/andradebjl24-cmyk/Refugio-Literario)
+
+</td>
+<td width="50%" valign="top">
+
+### [Consulta CEP](https://github.com/andradebjl24-cmyk/Consulta-CEP)
+
+**JavaScript · REST API · Web development**
+
+A lightweight web application that looks up Brazilian addresses by postal code using the ViaCEP API.
+
+[View repository →](https://github.com/andradebjl24-cmyk/Consulta-CEP) · [Live website →](https://consulta-cep-puce.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+## GitHub overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=andradebjl24-cmyk&show_icons=true&hide_border=true&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5&icon_color=C47A91&rank_icon=github" alt="Estatísticas do GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=andradebjl24-cmyk&show_icons=true&hide_border=true&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5&icon_color=C47A91&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebjl24-cmyk&layout=compact&hide_border=true&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5" alt="Most used programming languages" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebjl24-cmyk&layout=compact&hide_border=true&bg_color=1A1016&title_color=D9A0B0&text_color=EADFE5" alt="Linguagens mais utilizadas"/>
+<br /><br />
 
-</div>
+<img src="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
 
-## ❀ Minha jornada em código
+*Every contribution is part of the journey.*
 
-<div align="center">
+<br />
 
-<img src="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação da cobrinha percorrendo as contribuições do GitHub"/>
-
-*Cada contribuição é mais um passo na minha evolução.*
-
-<br/>
-
-✦ Obrigada por visitar meu perfil ✦
+<a href="https://linkedin.com/in/leticiaandradeads">Let's connect on LinkedIn</a>
 
 </div>
