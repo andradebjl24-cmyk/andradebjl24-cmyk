@@ -2,15 +2,15 @@
 
 <img src="./banner.jpg" width="100%" alt="Banner de Letícia Andrade com lírios em tons de bordô" />
 
-<br>
+<br><br>
 
-<a href="https://github.com/andradebjl24-cmyk"><img src="https://img.shields.io/badge/GitHub-800020?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub"></a>
+<a href="https://github.com/andradebjl24-cmyk"><img src="https://img.shields.io/badge/GitHub-58172F?style=for-the-badge&logo=github&logoColor=F5DDE6" alt="GitHub"></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/leticiaandradeads/"><img src="https://img.shields.io/badge/LinkedIn-800020?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/leticiaandradeads/"><img src="https://img.shields.io/badge/LinkedIn-58172F?style=for-the-badge&logo=linkedin&logoColor=F5DDE6" alt="LinkedIn"></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=24&duration=3000&pause=900&color=800020&center=true&vCenter=true&width=700&lines=Desenvolvimento+de+Software;Front-end+%26+UI%2FUX;Criando+com+tecnologia+e+criatividade" alt="Desenvolvimento de Software, Front-end e UI/UX" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=25&duration=2800&pause=1000&color=D8A0B5&center=true&vCenter=true&width=750&lines=Desenvolvimento+de+Software;Front-end+%7C+UI%2FUX;Produtos+Digitais+%26+Criatividade" alt="Título animado em tons de bordô" />
 
 <p><i>Transformando ideias em experiências digitais.</i></p>
 
@@ -28,66 +28,77 @@ Tenho interesse em **Front-end, UI/UX e produtos digitais**. Gosto de combinar p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,java,spring,cs,dotnet,mysql,figma,git,github,vscode&perline=7&theme=light" alt="HTML, CSS, JavaScript, React, Vue, Java, Spring, C#, .NET, MySQL, Figma, Git, GitHub e VS Code" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,java,spring,cs,dotnet,mysql,figma,git,github,vscode&perline=7&theme=dark" alt="HTML, CSS, JavaScript, React, Vue, Java, Spring, C#, .NET, MySQL, Figma, Git, GitHub e VS Code" />
 
 </div>
 
-## Projetos selecionados
+## Projetos em destaque
 
-### 01. EverRise
-**Tecnologia assistiva · Acessibilidade**
+<table>
+<tr>
+<td width="50%" bgcolor="#3A1023" valign="top">
 
-Projeto de tecnologia assistiva para apoiar a transferência de pessoas com mobilidade reduzida. Atuei no front-end, no design e na apresentação da solução.
+<h3>01 · EverRise</h3>
 
-[**Explorar repositório ↗**](https://github.com/Ever-Rise)
+<p><sub>Tecnologia assistiva · Acessibilidade</sub></p>
 
----
+Projeto de tecnologia assistiva para apoiar a transferência de pessoas com mobilidade reduzida. Contribuí com o front-end, o design e a apresentação da solução.
 
-### 02. Lentes do Tempo
-**Cultura brasileira · Experiência imersiva**
+<a href="https://github.com/Ever-Rise">Explorar projeto ↗</a>
+
+</td>
+<td width="50%" bgcolor="#3A1023" valign="top">
+
+<h3>02 · Lentes do Tempo</h3>
+
+<p><sub>Cultura brasileira · Experiência imersiva</sub></p>
 
 Experiência digital que valoriza o patrimônio cultural brasileiro por meio de recursos visuais e imersivos.
 
-[**Repositório ↗**](https://github.com/EuAndersonDev/LentesDoTempo) · [**Site do projeto ↗**](https://lentesdotempo.vercel.app/)
+<a href="https://github.com/EuAndersonDev/LentesDoTempo">Repositório ↗</a> · <a href="https://lentesdotempo.vercel.app/">Site ↗</a>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" bgcolor="#3A1023" valign="top">
 
-### 03. Refúgio Literário
-**C# · ASP.NET Core MVC · SQL Server**
+<h3>03 · Refúgio Literário</h3>
+
+<p><sub>C# · ASP.NET Core MVC · SQL Server</sub></p>
 
 Sistema de biblioteca com catálogo de livros, usuários, favoritos, comentários e gerenciamento de empréstimos.
 
-[**Explorar repositório ↗**](https://github.com/andradebjl24-cmyk/Refugio-Literario)
+<a href="https://github.com/andradebjl24-cmyk/Refugio-Literario">Explorar projeto ↗</a>
 
----
+</td>
+<td width="50%" bgcolor="#3A1023" valign="top">
 
-### 04. Consulta CEP
-**JavaScript · API ViaCEP**
+<h3>04 · Consulta CEP</h3>
 
-Aplicação web que consulta endereços brasileiros a partir do CEP, consumindo uma API para retornar os dados.
+<p><sub>JavaScript · API ViaCEP</sub></p>
 
-[**Repositório ↗**](https://github.com/andradebjl24-cmyk/Consulta-CEP) · [**Site do projeto ↗**](https://consulta-cep-puce.vercel.app/)
+Aplicação web para consultar endereços brasileiros a partir do CEP, consumindo dados de uma API.
 
----
+<a href="https://github.com/andradebjl24-cmyk/Consulta-CEP">Repositório ↗</a> · <a href="https://consulta-cep-puce.vercel.app/">Site ↗</a>
 
-## GitHub em números
+</td>
+</tr>
+</table>
+
+## Um pouco da minha jornada
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andradebjl24-cmyk&show_icons=true&hide_border=true&bg_color=FFF9FB&title_color=800020&text_color=4A2633&icon_color=800020" height="160" alt="Estatísticas do GitHub" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebjl24-cmyk&layout=compact&hide_border=true&bg_color=FFF9FB&title_color=800020&text_color=4A2633" height="160" alt="Linguagens mais utilizadas" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação da cobrinha nas contribuições do GitHub" />
-
-<br>
-
-<i>Um projeto de cada vez, sempre aprendendo.</i>
+<img src="https://img.shields.io/badge/FOCO-Desenvolvimento%20Web-58172F?style=for-the-badge&labelColor=240A15" alt="Foco em desenvolvimento web" />
+<img src="https://img.shields.io/badge/INTERESSE-UI%2FUX-6F3048?style=for-the-badge&labelColor=240A15" alt="Interesse em UI e UX" />
+<img src="https://img.shields.io/badge/MOTIVAÇÃO-Aprender%20sempre-8D4963?style=for-the-badge&labelColor=240A15" alt="Motivação para aprender sempre" />
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/leticiaandradeads/"><img src="https://img.shields.io/badge/Vamos%20nos%20conectar-800020?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vamos nos conectar pelo LinkedIn"></a>
+<img src="https://raw.githubusercontent.com/andradebjl24-cmyk/andradebjl24-cmyk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cobrinha animada das contribuições do GitHub" />
+
+<p><i>Um projeto de cada vez, sempre evoluindo.</i></p>
+
+<a href="https://www.linkedin.com/in/leticiaandradeads/"><img src="https://img.shields.io/badge/Vamos%20nos%20conectar-58172F?style=for-the-badge&logo=linkedin&logoColor=F5DDE6" alt="Vamos nos conectar pelo LinkedIn"></a>
 
 </div>
